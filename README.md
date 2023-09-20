@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ccharris940406&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel358&langs_count=6&layout=compact)
