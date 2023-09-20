@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align='center'>
+  Hi there 👋 I'm Harris 
+</h1>
+<p align='center'>
+  A frontend React developer.
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ccharris940406&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
