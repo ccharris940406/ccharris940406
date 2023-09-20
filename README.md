@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccharris940406&langs_count=6&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccharris940406&langs_count=6&layout=compact)
 </div>
 
